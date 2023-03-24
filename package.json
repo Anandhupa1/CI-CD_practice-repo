@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Anandhupa1/CI-CD_practice-repo/issues"
   },
-  "homepage": "https://github.com/Anandhupa1/CI-CD_practice-repo#readme"
+  "homepage": "https://github.com/Anandhupa1/CI-CD_practice-repo#readme",
+  "dependencies": {
+    "shortid": "^2.2.16"
+  }
 }
